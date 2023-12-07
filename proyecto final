@@ -1,0 +1,200 @@
+<HTML>
+
+<HEAD>
+    <title>Industria Inteligente</title>
+    <style> 
+          body{background-color: #00BFFF;}
+
+        titulo{font-style: italic;
+               color: FFF8DC;
+               font-size:  150%;
+               font-weight:800;}
+
+     Subtitulo{font-style: oblique;
+               color: FFF8DC;
+               font-size:  115%;
+               font-weight: 550;}
+
+     Subtitulo2{font-style: oblique;
+               color: FFF8DC;
+               font-size:  105%;
+               font-weight: 550;}
+
+         texto{font-style: normal;
+               color: FFF8DC;
+               font-size:   100%;
+               text-align: justify;
+               width: 60%;
+               margin: auto;}
+
+         fecha{font-style: oblique;
+                color: FFF8DC;
+                font-size: 90%;
+                font-weight:600;
+                text-align: right;}
+
+        nombres{font-style:oblique;
+               color: FFF8DC;}
+
+        cursiva{font-style: oblique;
+               color: FFF8DC;}
+ 
+    </style>
+</HEAD>
+
+<body>
+    <p><img src="C:\Users\hp\Desktop\ProyectoFinal\escuela_Logos.jpg"
+                 width= 90%
+                 height= 15%
+                 /></p>
+
+    <p><titulo> Proyecto Final </titulo></p>
+    <p><subtitulo> Instituto Tecnológico de Aguscalientes </subtitulo></p>
+
+    <p><img src="C:\Users\hp\Desktop\ProyectoFinal\Logo_Carrera.jpg"
+                 width= 20%
+                 height=25%
+                 /></p>
+
+    <p><subtitulo> Industria Inteligente </subtitulo></p>
+    <p><subtitulo> Integrantes </subtitulo></p>
+    <p><nombres> Hermosillo Tejada Victor Eduardo [19151400] </nombres></p>
+    <p><nombres> Macías Rivera Luis Manuel [18150797] </nombres></p>
+    <p><nombres> Ortega Ramirez Andrea Monserrat [18150855] </nombres></p>
+    <p><nombres> Rodríguez Cotera Daniel Alejandro [19151392] </nombres></p>
+    <p><nombres> Rodríguez Luévano Luis Jesús [18150762] </nombres></p>
+    <p><nombres> Mora Franco Jonathan Hiram [19150063] </nombres></p>
+    <p><nombres> Velázquez Herrera Carlos Alejandro [19151404] </nombres></p>
+    <p><fecha> 05 Diciembre 2023, Aguascalientes, Ags </fecha></p>
+
+    <Br>
+
+    <p><subtitulo> Introduccion </subtitulo></p>
+    <p><texto>
+          La banda transportadora es un sistema mecánico utilizado en diversas industrias para el transporte eficiente de materiales y productos. Consiste en una cinta continua de material resistente que se desplaza sobre una serie de rodillos o poleas, permitiendo el traslado de cargas de un punto a otro de manera automática.
+    </texto></p>
+    <p><texto>
+                   La banda transportadora se utiliza en sectores como la minería, la agricultura, la industria alimentaria, la logística y muchas otras. Su funcionamiento se basa en el principio de fricción entre la cinta y los rodillos, lo que permite el movimiento de los materiales sin necesidad de intervención manual.
+    </texto></p>
+    <p><texto>
+                   Este sistema de transporte ofrece numerosas ventajas, como la capacidad de transportar cargas de gran peso y tamaño, la posibilidad de automatizar el proceso de transporte, la reducción de costos y tiempos de producción, y la mejora en la seguridad laboral al minimizar el manejo manual de materiales pesados.
+    </texto></p>
+    <p><texto>
+                  En resumen, la banda transportadora es una herramienta fundamental en la industria moderna, que facilita el movimiento eficiente de materiales y productos, optimizando los procesos de producción y logística.
+    </texto></p>
+
+    <Br>
+
+    <p><subtitulo> Marco Teórico </subtitulo></p>
+    <p><subtitulo2> Automatización </subtitulo></p>
+    <p><cursiva> ¿Qué es la automatización? </cursiva></p>
+    <p><texto> Automatización es un término que refiere a aplicaciones de tecnología donde se minimiza la participación humana. Esto incluye automatización de procesos empresariales (BPA), automatización de TI, aplicaciones personales como automatización de viviendas y más. </texto></p>
+    <p><texto> Tipos de automatización </texto></p>
+    <p><texto> - Automatización Básica </texto></p>
+    <p><texto> La automatización básica automatiza tareas simples y rudimentarias. Este nivel de automatización se trata de digitalizar el trabajo mediante el uso de herramientas para agilizar y centralizar las tareas rutinarias, como utilizar un sistema de mensajería compartida en lugar de tener información en silos inconexos. La gestión de procesos empresariales (BPM) y la automatización de procesos robóticos (RPA) son tipos de automatización básica.</texto></p>
+    <p><texto> - Automatización de procesos </texto></p>
+    <p><texto> La automatización de procesos gestiona los procesos empresariales para lograr uniformidad y transparencia. Por lo general, se administra mediante software dedicado y aplicaciones empresariales. El uso de la automatización de procesos puede aumentar la productividad y la eficiencia en su negocio. También puede brindar nuevas perspectivas acerca de los desafíos empresariales y sugerir soluciones. La minería de procesos y la automatización de flujos de trabajo son tipos de automatización de procesos. </texto></p>
+    <p><texto> - Automatización de integracion </texto></p>
+    <p><texto> La automatización de integración es donde las máquinas pueden imitar las tareas humanas y repetir las acciones una vez que los humanos definen las reglas para la máquina. Un ejemplo es el "trabajador digital". En los últimos años, se ha definido a los trabajadores digitales como robots de software que están capacitados para trabajar con humanos para realizar tareas específicas. Tienen un conjunto específico de habilidades y pueden ser "contratados" para trabajar en equipo. </texto></p>
+    <p><texto> - Automatización de itegracion artificial </texto></p>
+    <p><texto> El nivel más complejo de automatización es la de inteligencia artificial (IA). La adición de IA significa que las máquinas pueden "aprender" y tomar decisiones basadas en situaciones pasadas que han encontrado y analizado. Por ejemplo, en la atención al cliente, los asistentes virtuales impulsados por IA pueden reducir los costos al tiempo que empoderan tanto a los clientes como a los agentes humanos, lo que crea una experiencia de atención al cliente óptima. </texto></p>
+
+    <p><cursiva> Bandas transportadoras </cursiva></p>
+    <p><cursiva> Sistemas de bandas transportadoras </cursiva></p>
+    <p><texto> Un sistema de bandas transportadoras industriales está diseñado para mover materiales de manera rápida y eficiente, y se puede personalizar para adaptarse a las necesidades específicas de la aplicación. Los sistemas de bandas transportadoras industriales se pueden utilizar en una variedad de entornos, incluidos: </texto></p>
+    <p><texto>- Lineas de montaje</texto></p>
+    <p><texto>- Plantas de fabricación</texto></p>
+    <p><texto>- Obras de construcción</texto></p>
+    <p><texto>- Almacenes y centro de distribución</texto></p>
+
+    <p><cursiva> Piezas clave para una banda transportadora </cursiva></p>
+    <p><texto>Independientemente de la aplicación y el entorno, la mayoría de los sistemas de banda transportadora funcionan con los mismos componentes básicos. </texto></p>
+    <p><texto>- Transmisión</texto></p>
+    <p><texto>La transmisión se refiere a la fuente de energía que permite que funcione la banda transportadora. La transmisión se refiere a la fuente de energía que permite que funcione la banda transportadora. La mayoría de los sistemas de banda transportadora modernos utilizan un motor eléctrico, pero algunos modelos de banda transportadora utilizan accionamientos manuales o por gravedad, a menudo mediante el uso de rodillos que facilitan el movimiento de objetos cuando un trabajador lo empuja a lo largo de la banda transportadora.</texto></p>
+    <p><texto>- Controles</texto></p>
+    <p><texto>El funcionamiento de su banda transportadora depende, en gran medida, del tipo de controles que tenga. Integrando bandas transportadoras industriales con sistema de automatización para optimizar su rendimiento, lo que a su vez reduce la necesidad de un monitoreo constante y libera el tiempo de sus trabajadores para tareas más complicadas.</texto></p>
+    <p><texto>- Modo de trasferencia</texto></p>
+    <p><texto>El modo de transferencia de un sistema de transporte se refiere a la forma en que mueve los materiales. Los modos de transferencia más comunes y eficaces para las bandas transportadoras industriales son las correas y las cadenas.</texto></p>
+    <p><texto>- Soporte</texto></p>
+    <p><texto>Físicamente, las bandas transportadoras industriales requieren mecanismos adecuados para soportar su estructura y funcionalidad, lo que hace que el armazón sea esencial para sujetar las correas o cadenas y otros componentes esenciales.</texto></p>
+
+    <Br>
+
+    <p><subtitulo> Desarrollo </subtitulo></p>
+    <p><img src="C:\Users\hp\Desktop\ProyectoFinal\prot.jpg"
+                 width= 40%
+                 height=40%
+                 /></p>
+
+    <p><texto> •Implementación en LabView: </texto></p>
+    <p><texto> Para llevar a cabo la automatización de la banda transportadora, se optó por utilizar LabView, un entorno de programación gráfica que ofrece una interfaz intuitiva y poderosas capacidades para el control de sistemas automáticos. A continuación se detalla la implementación en LabView: </texto></p>
+    <p><texto>1.Diseño del Diagrama de Bloques: Se desarrolló un diagrama de bloques en LabView que representa la lógica de control de la banda transportadora. Este diagrama incluye nodos para la lectura de sensores, toma de decisiones y control de actuadores. </texto></p>
+    <p><texto>2.Integración con Arduino: LabView se conectó con la placa de Arduino mediante la utilización de las bibliotecas y herramientas proporcionadas para esta plataforma. Se estableció una comunicación eficiente para la transmisión de datos entre LabView y el Arduino.  </texto></p>
+    <p><texto>3.Adquisición de Datos: Se incorporaron nodos de adquisición de datos para capturar información proveniente de los sensores colocados a lo largo de la banda transportadora. Estos datos son esenciales para tomar decisiones en tiempo real. </texto></p>
+    <p><texto>4.Lógica de Control: Se programó la lógica de control en LabView para interpretar los datos de los sensores y determinar las acciones necesarias. Por ejemplo, detener o iniciar la banda transportadora, ajustar la velocidad, o activar sistemas de alarma.</texto></p>
+    <p><texto>5.Interfaz Gráfica de Usuario (GUI): Se diseñó una interfaz gráfica de usuario en LabView para proporcionar una plataforma intuitiva de monitoreo y control. Esta interfaz permite a los operadores visualizar el estado del sistema y realizar ajustes según sea necesario.</texto></p>
+    
+    <p><img src="C:\Users\hp\Desktop\ProyectoFinal\Lab.jpg"
+                 width= 40%
+                 height=40%
+                 /></p>
+
+    <p><texto>•Simulación en Proteus:</texto></p>
+    <p><texto>Para validar y verificar la funcionalidad del sistema antes de la implementación física, se realizó una simulación detallada utilizando el software de diseño electrónico Proteus. La simulación se centró en garantizar la correcta interacción entre los componentes electrónicos, la lógica de control y el comportamiento de la banda transportadora.</texto></p>
+    <p><texto>La simulación en Proteus desempeñó un papel crucial en la validación del diseño y la programación antes de la implementación física. Proporcionó una plataforma segura para identificar y corregir posibles problemas, lo que contribuyó a un proceso de desarrollo más eficiente y a la creación de un sistema automatizado robusto y confiable.</texto></p>
+    
+    <p><img src="C:\Users\hp\Desktop\ProyectoFinal\1.jpg"
+                 width= 40%
+                 height=40%
+                 /></p>
+    <p><texto>•Maqueta y Conexiones Físicas:  </texto></p>
+    <p><texto>1.Montaje de Sensores: Se colocaron sensores a lo largo de la banda transportadora para detectar la presencia de objetos, cambios en la velocidad, o cualquier otra variable relevante. Estos sensores son la entrada clave para el sistema.  </texto></p>
+    <p><texto>2.Configuración de Actuadores: Los motores de la banda transportadora se conectaron a través de actuadores controlados por Arduino. LabView envía las señales de control necesarias para ajustar la velocidad y dirección de la banda.  </texto></p>
+    <p><texto>3.Pantalla LCD y Señalización: La pantalla LCD se integró al sistema para mostrar información en tiempo real sobre el estado de la banda transportadora. Se implementaron señalizaciones visuales, como luces de precaución, para alertar a los operadores sobre situaciones críticas.  </texto></p>
+
+    <p><img src="C:\Users\hp\Desktop\ProyectoFinal\2.jpg"
+                 width= 40%
+                 height=40%
+                 /></p>
+    <p><img src="C:\Users\hp\Desktop\ProyectoFinal\3.jpg"
+                 width= 40%
+                 height=40%
+                 /></p>
+    <p><img src="C:\Users\hp\Desktop\ProyectoFinal\4.jpg"
+                 width= 40%
+                 height=40%
+                 /></p>
+
+    <p><img src="C:\Users\hp\Desktop\ProyectoFinal\5.jpg"
+                 width= 40%
+                 height=40%
+                 /></p>
+
+    <Br>
+
+    <p><subtitulo> Conclusiónes: </subtitulo></p>
+    <p><texto>•Conclusión de Hermosillo Tejada Victor Eduardo [19151400]:</texto></p>
+    <p><texto>En el transcurso de este proyecto, se ha evidenciado la importancia de la colaboración entre LabView y Arduino en la automatización de sistemas industriales. A pesar de los desafíos encontrados durante el proceso, como la programación específica y la integración de hardware, logramos superar obstáculos y demostrar que la combinación de estas tecnologías puede impulsar la eficiencia y la precisión en el control de una banda transportadora. Este proyecto ha proporcionado una valiosa experiencia en la implementación práctica de conocimientos teóricos y en la resolución de problemas, contribuyendo al crecimiento profesional y al entendimiento más profundo de la automatización industrial.</texto></p>
+    <p><texto>•Conclusión de Macías Rivera Luis Manuel [18150797]:</texto></p>
+    <p><texto>La automatización es un importante rasgo de la industria actual, y debido al gran avance que la tecnología tiene día con día, en ocasiones resulta complicado encontrar las mejoras herramientas para lograr realizarla, sin embargo, existen algunas cuantas que al menos en la actualidad son muy usadas, por ejemplo, Labia.
+     LabView es un lenguaje de programación capaz de ayudar en la automatización de tareas de manera sencilla e intuitiva para el programador, y usándolo con diferentes herramientas como microcontroladores, se vuelve una herramienta de gran poder para la industria. En el proyecto actual esto se puede ver claramente, pues, se logró controlar una banda transportadora a través de un código de LabView usando como controlador una placa de Arduino uno, la cual recolectaba, datos de sensores los evaluaba en al programa y tomaba decisiones que afectaban directamente a los motores de la banda. </texto></p>
+    <p><texto>•Conclusión de Mora Franco Jonathan Hiram [19150063]:</texto></p>
+    <p><texto>Este proyecto no solo nos ha proporcionado conocimientos técnicos, sino también habilidades valiosas en gestión de proyectos, colaboración en equipo y resolución de problemas. Cada desafío superado, cada componente conectado y cada línea de código escrita representan un paso hacia adelante en nuestro viaje de aprendizaje en el emocionante mundo de la automatización industrial. Este proyecto sienta las bases para futuras exploraciones y nos deja con la satisfacción de haber contribuido significativamente al campo de la ingeniería y la automatización.</texto></p>
+    <p><texto>•Conclusión de Ortega Ramírez Andrea Monserrat [18150855]:</texto></p>
+    <p><texto>La participación en este proyecto de automatización ha sido enriquecedora y educativa. La integración de LabView, Arduino y Proteus ha demostrado ser una estrategia efectiva para llevar a cabo proyectos de automatización industrial. Hemos aprendido a superar retos, desde la programación hasta la simulación y la implementación física. Este proyecto no solo ha fortalecido nuestras habilidades técnicas, sino que también ha resaltado la necesidad de una colaboración efectiva dentro del equipo. La optimización de procesos, la seguridad laboral y la eficiencia alcanzada en la banda transportadora son logros que nos motivan a seguir explorando y mejorando en el campo de la automatización.</texto></p>
+    <p><texto>•Conclusión de Rodríguez Cotera Daniel Alejandro [19151392]:</texto></p>
+    <p><texto>En este proyecto de automatización de una banda transportadora mediante la integración de LabView, Arduino y Proteus, se ha logrado demostrar de manera concreta la aplicabilidad y eficacia de las tecnologías modernas en el ámbito industrial. A lo largo del desarrollo, se han abordado aspectos cruciales relacionados con la optimización de procesos, la mejora de la eficiencia y la garantía de la seguridad laboral, este proyecto no solo ha destacado la importancia de la automatización en la industria moderna, sino que también ha demostrado cómo la combinación estratégica de LabView, Arduino y Proteus puede resultar en sistemas automatizados sólidos y confiables. El control preciso de la banda transportadora, la optimización de procesos y la garantía de la seguridad laboral son testimonios tangibles del impacto positivo de la tecnología en la mejora continua de los procesos industriales. Este proyecto sienta las bases para futuras implementaciones y exploraciones en el ámbito de la automatización industrial.</texto></p>
+    <p><texto>•Conclusión de Rodríguez Luévano Luis Jesús [18150762]:</texto></p>
+    <p><texto>Este proyecto de automatización ha sido una experiencia reveladora. La combinación de LabView, Arduino y Proteus ha permitido controlar de manera efectiva una banda transportadora, destacando la importancia de seleccionar herramientas adecuadas para cada aplicación. A lo largo de este proceso, hemos enfrentado desafíos y hemos aprendido a superarlos, lo que ha fortalecido nuestras habilidades en programación y simulación. Este proyecto ha dejado claro que la automatización es esencial en la industria moderna, y la sinergia entre LabView y Arduino es una fórmula exitosa para implementar soluciones efectivas.</texto></p>
+    <p><texto>•Conclusión de Velázquez Herrera Carlos Alejandro [19151404]:</texto></p>
+    <p><texto>La participación en este proyecto ha sido un viaje educativo y enriquecedor en el mundo de la automatización industrial. La combinación de LabView, Arduino y Proteus ha demostrado ser un enfoque efectivo para controlar y optimizar una banda transportadora. A pesar de los desafíos, hemos logrado implementar con éxito un sistema automatizado que destaca la importancia de la tecnología en la mejora de la eficiencia y la seguridad en los procesos industriales. Este proyecto sienta las bases para futuras exploraciones y desarrollos, y me deja con una comprensión más profunda y apreciación por la automatización en la industria.</texto></p>
+
+    <Br>
+
+    <p><subtitulo> Bibliografía </subtitulo></p>
+
+    <p><texto>[1] 	Dorner, «dornerconveyors.com,» [En línea]. Available: https://www.dornerconveyors.com/es/soluciones/sistemas-de-bandas-transportadoras-industriales#:~:text=Las%20bandas%20transportadoras%20industriales%20se,hacia%20y%20desde%20el%20almacenamiento.. [Último acceso: 05 Diciembre 2023].</texto></p>
+    <p><texto>[2] 	IBM, «Automation,» IBM, [En línea]. Available: https://www.ibm.com/mx-es/topics/automation. [Último acceso: 04 Diciembre 2023].</texto></p>
+</body>
+
+</HTML>
